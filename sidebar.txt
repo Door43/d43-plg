@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[plg:home|Door43 (plg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-plg|d43-plg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-plg/archive/master.zip|d43-plg.zip]]
+
+**Recent Changes**
+{{changes>ns = plg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/plg|Ethnologue data]]
+
